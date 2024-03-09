@@ -1,0 +1,14 @@
+D:\DayHoc\BaiTap\BaiTapThucHanh\bin\Debug\net6.0\BaiTapThucHanh.exe
+D:\DayHoc\BaiTap\BaiTapThucHanh\bin\Debug\net6.0\BaiTapThucHanh.deps.json
+D:\DayHoc\BaiTap\BaiTapThucHanh\bin\Debug\net6.0\BaiTapThucHanh.runtimeconfig.json
+D:\DayHoc\BaiTap\BaiTapThucHanh\bin\Debug\net6.0\BaiTapThucHanh.dll
+D:\DayHoc\BaiTap\BaiTapThucHanh\bin\Debug\net6.0\BaiTapThucHanh.pdb
+D:\DayHoc\BaiTap\BaiTapThucHanh\obj\Debug\net6.0\BaiTapThucHanh.GeneratedMSBuildEditorConfig.editorconfig
+D:\DayHoc\BaiTap\BaiTapThucHanh\obj\Debug\net6.0\BaiTapThucHanh.AssemblyInfoInputs.cache
+D:\DayHoc\BaiTap\BaiTapThucHanh\obj\Debug\net6.0\BaiTapThucHanh.AssemblyInfo.cs
+D:\DayHoc\BaiTap\BaiTapThucHanh\obj\Debug\net6.0\BaiTapThucHanh.csproj.CoreCompileInputs.cache
+D:\DayHoc\BaiTap\BaiTapThucHanh\obj\Debug\net6.0\BaiTapThucHanh.dll
+D:\DayHoc\BaiTap\BaiTapThucHanh\obj\Debug\net6.0\refint\BaiTapThucHanh.dll
+D:\DayHoc\BaiTap\BaiTapThucHanh\obj\Debug\net6.0\BaiTapThucHanh.pdb
+D:\DayHoc\BaiTap\BaiTapThucHanh\obj\Debug\net6.0\BaiTapThucHanh.genruntimeconfig.cache
+D:\DayHoc\BaiTap\BaiTapThucHanh\obj\Debug\net6.0\ref\BaiTapThucHanh.dll
